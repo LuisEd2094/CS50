@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: When already sorted it takes considerably less time than when reversed or random, so there is a lower lower bound.
+
+sort2 uses: Merge Sort
+
+How do you know?: When working with small numbers, 5K, it takes less time, about half as much, as with Sort3, which uses Selection Sort
+
+sort3 uses: Selection Sort
+
+How do you know?: When working with small numbers, 5K, it takes more time, about half as much, as with Sort2, which uses Mege Sort
